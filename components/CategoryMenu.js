@@ -54,7 +54,7 @@ const CategoryMenu = () => {
                 </div>
               )}
             </div>
-            <div className='hidden sm:block sm:ml-6'>
+            <div className='sm:block sm:ml-6'>
               <div className='flex'>
                 <a
                   href='#'

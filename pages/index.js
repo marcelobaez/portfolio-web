@@ -33,14 +33,14 @@ const cards = [
       "https://instagram.fsfn4-1.fna.fbcdn.net/v/t51.2885-19/s150x150/82760366_118613219537904_2308081825341243392_n.jpg?_nc_ht=instagram.fsfn4-1.fna.fbcdn.net&_nc_ohc=7kbZBtOH6-8AX_k5AKL&oh=d7f50b4ad847116c6932596d36acfb16&oe=5EC786DE",
     images: ["/img/lucas.jpg"],
   },
-  // {
-  //   category: "Indumentaria",
-  //   name: "SweetHope",
-  //   owner: "Nayibe Talamas",
-  //   avatar:
-  //     "https://instagram.fsfn4-1.fna.fbcdn.net/v/t51.2885-19/s150x150/71523188_451358682148602_8573154897803870208_n.jpg?_nc_ht=instagram.fsfn4-1.fna.fbcdn.net&_nc_ohc=Ws9yJKUpdwoAX9SePrt&oh=9fe0b4a5e540d57ef4e2c8fff76e47cf&oe=5EC5B2A9",
-  //   images: ["/img/sweet.jpeg"],
-  // }
+  {
+    category: "Vida sana",
+    name: "Servicios de huerta",
+    owner: "Ricardo Baez",
+    avatar:
+      "https://www.facebook.com/search/async/profile_picture/?fbid=100011378341951&width=72&height=72",
+    images: ["/img/ricor.jpeg"],
+  },
 ];
 
 const Index = () => {
